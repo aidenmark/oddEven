@@ -14,5 +14,3 @@ if num % 2 == 0:
 else:
 	print(num, 'is ODD')
 
-# Again, I do not know why the output keeps the
-# quotation marks
